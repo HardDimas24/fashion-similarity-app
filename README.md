@@ -42,12 +42,14 @@ streamlit run app.py
 ## Примеры использования
 
 <img width="1323" alt="image" src="https://github.com/user-attachments/assets/a9330dfe-180b-4b77-92ef-1bc499c2a147" />
-*фильтрация и показ товаров*
+_фильтрация и показ товаров_
+
 
 <img width="1323" alt="image" src="https://github.com/user-attachments/assets/fee3f2fb-e8bd-4b20-b49a-9939b8b8dc2d" />
-*рекомендации по id товара*
+_рекомендации по id товара_
+
 
 <img width="1323" alt="image" src="https://github.com/user-attachments/assets/d6ea47a4-6300-4b3b-aeed-195e0ca9aad2" />
-*история поиска*
+_история поиска_
 
 
