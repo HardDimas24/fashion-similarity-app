@@ -44,7 +44,7 @@ streamlit run app.py
 ## Примеры использования
 
 <img width="1323" alt="image" src="https://github.com/user-attachments/assets/a9330dfe-180b-4b77-92ef-1bc499c2a147" />
-*фильтрация и показ товаров*
+[url=https://online-letters.ru/][img]https://x-lines.ru/letters/i/cyrillicscript/0034/000000/20/0/4gnpbqgozxea3wcn4gypbcgto5emtwcxrdemoegoz9em7wf44napbp3y4gbpbxsosmembwcy4n9pbco.png[/img][/url]
 
 
 <img width="1323" alt="image" src="https://github.com/user-attachments/assets/fee3f2fb-e8bd-4b20-b49a-9939b8b8dc2d" />
