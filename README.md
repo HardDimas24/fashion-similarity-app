@@ -48,7 +48,7 @@ streamlit run app.py
 
 
 <img width="1323" alt="image" src="https://github.com/user-attachments/assets/fee3f2fb-e8bd-4b20-b49a-9939b8b8dc2d" />
-*рекомендации по id товара*
+__рекомендации по id товара__
 
 
 <img width="1323" alt="image" src="https://github.com/user-attachments/assets/d6ea47a4-6300-4b3b-aeed-195e0ca9aad2" />
