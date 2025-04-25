@@ -25,15 +25,17 @@ fashion-similarity-app/
 ├── features.npy            # Извлечённые признаки изображений
 ├── filtered_products.csv   # Основной датасет товаров
 ├── images.csv              # Ссылки на изображения
-└── README.md               # Этот файл
+└── README.md               
 ```
 
 ## 💡 Используемые технологии
 
 	•	Python
 	•	Streamlit
-	•	NumPy, Pandas
+	•	NumPy
+ 	•	Pandas
 	•	FAISS
+	•	torch
 	•	torchvision
 	•	scikit-learn
 
